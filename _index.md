@@ -1,42 +1,42 @@
 ---
 title: Scratch
 weight: -100
+type: docs
+Draft: false
+icon: "fas fa-cat" # fontawesome icon : https://fontawesome.com/icons
+description: "Erfinde & Programmiere Dein eigenes Spiel - mit der Katze Scratch."
+# type dont remove or customize
+type : "docs"
 ---
 
-{{< toc format=html >}}
+## Was ist Scratch?
 
-Allgemeine Infos zu (online) Kursen
+[Scratch](https://scratch.mit.edu/) ist eine kostenlose Programmiersprache und -umgebung speziell für Kinder. Die Webseite beschreibt ihr Projekt so:
 
-## Ablauf
+> Scratch hilft jungen Leuten,  kreativ zu denken, systematisch zu schlussfolgern und miteinander  zusammenzuarbeiten — grundlegende Fähigkeiten für das Leben im 21.  Jahrhundert. 
+>
+> 
+>
+> https://scratch.mit.edu/about
 
-- Begrüßung
-  - Macht bitte Eure Kamera an...
-- Übersicht - was machen wir heute?
-- Fragen von letzter Stunde?
-- Wer hat was gemacht - und will es zeigen?
-- Wiederholung letzte Stunde (Präsentation)
-- Das machen wir heute
-- Vormachen, Erklären.
-- Jetzt sind die Kinder dran: Nachnachen
-- Üben...
-- Fragen: alle einzeln ansprechen - hat es bei dir geklappt?
-- 5 Minuten vor Ende: "Server geht jetzt aus..."
-- Review: Macht bitte Eure Kamera an...
+Dem können wir nur voll und ganz zustimmen! Man kann mit Scratch:
 
-## VENÜ
+- seine **eigenen Spiele** programmieren
+- **coole Trickfilme** erstellen
+- **Interaktive Gesichten** entwerfen
+- sogar **Roboter programmieren** – wie [Lego WeDo](https://kidslab.de/lego-wedo-2-0/) oder [Lego Mindstorms](https://kidslab.de/lego-mindstorms/)
 
-- Vormachen
-- Erklären
-- Nachmachen
-- Üben
+Und das beste: die **Kreationen können mit Freunden und der Familie online** geteilt werde!
 
-https://de.wikipedia.org/wiki/Vier-Stufen-Methode
+Scratch ist einfach zu benutzen und zu erlernen:
 
-Finde ich guten Ansatz.
+- **Komplett im Browser** läuft – keine Installation notwendig!
+- **Grafische Programmiersprache** mit übersichtlichen, farbigen Elementen
+- viele **vorbereitete Elemente** wie Töne oder Figuren oder eigene Kreationen
+- **Riesige Community** mit quelloffenen Beispielen 
+- **Komplett kostenlos** 
 
-## Besonderheiten Minecraft
+## Wie geht das?
 
-- Vorher erklären - wenn der Server läuft, machen die Kinder was anderes
-  - u.u. einfrieren?
-- Interaktivität nutzen - "Kommt mal alle her, ich zeig euch was..."
-- 
+Du kannst Dich selbst bei Scratch anmelden oder über eine Klasse beitreten. Mehr findest Du im Kapitel "Anmeldung & erster Start"
+

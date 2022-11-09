@@ -11,12 +11,12 @@ Wir starten und erstellen deinen “Helden”.
 
 Dazu erstellst Du eine neue Figur. Mit dem Abfalleimer bei der bestehenden Figur kannst Du diese erst mal löschen. Dann klicke unten auf die “Katze +” - hier kannst Du auswählen, wie Du die neue Figur erstellen willst:
 
-![1-NeueFigur](1-NeueFigur.png)
+![Erstelle eine neue Figur](1-NeueFigur.png)
 
 
 Für die erste Figur wählst Du am besten einen bestehenden Charakter aus, klicke auf die Lupe und Du erhältst eine lange Liste von vorgefertigten Figuren. Ich habe mir den Hund “Spot” ausgewählt - Du kannst Dir natürlich deine passende Figur auswählen.
 
-![2-FigurAuswaehlen](2-FigurAuswaehlen.png)
+![Wähle eine Figur aus den vorhandenen aus](2-FigurAuswaehlen.png)
 
 ## Wir hauchen der Figur Leben ein: Programmieren!
 
@@ -24,7 +24,7 @@ Bis jetzt steht unser Hund ja nur in der Gegend rum - im nächsten Schritt hauch
 
 Klicke dazu auf der ganz rechten Seite auf den blauen Bereich `Bewegung` und ziehe mal die Befehle `gehe 10er Schritt` und `drehe dich um 15 Grad` und den Programmierbereich.   
 
-![3-EinfacheBewegung](3-EinfacheBewegung.png)
+![Erstelle die erste Programmierung: eine einfache Bewegung für den Hund](3-EinfacheBewegung.png)
 
 Klicke mal auf die beiden Blöcke - der Held geht jeweils ein bisschen vorwärts und dreht sich! Aber das macht er ja nur einmal.
 

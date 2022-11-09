@@ -16,7 +16,7 @@ Die Eier werden auch als *Figur* angelegt.
 Dazu erstellst Du als erstes eine neue Figur, diesmal malen wir die Figur aber selber, also wählst du  `Malen`:
 
 
-![image alt](1-NeueFigur.png "")
+![Erstelle eine neue Figur](1-NeueFigur.png "")
 
 Jetzt öffnet sich ein neue Bereich: Auf der rechten Seite kannst Du die neue Figur nun gestalten.
 
